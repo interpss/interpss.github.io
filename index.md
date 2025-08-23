@@ -11,7 +11,7 @@ permalink: /
 InterPSS is a comprehensive power system analysis engine designed for both online and offline applications.
 
 ### Quick Links
-
+**[🎓 InterPSS Tutorials](https://github.com/InterPSS-Project/ipss-common/tree/master/ipss.tutorial){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}**
 **[📖 API Documentation](api_doc/index.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}**
 **[📋 InterPSS Development and Application Guide](https://docs.google.com/document/d/1M2ZtDzVyuizGv3M3qwAUgRx82K4WSCmuppT6rPMux9M/edit?tab=t.0#heading=h.5pkl7rdar3y8){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 .mr-2}**
 
