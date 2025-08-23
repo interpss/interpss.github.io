@@ -20,9 +20,9 @@ The InterPSS API documentation provides comprehensive coverage of all classes, i
 |--------|-------------|---------------|
 | **Core** | Core power system analysis functionality | [com.interpss.core](../api_doc/com/interpss/core/package-summary.html) |
 | **ACLF** | AC Load Flow analysis | [com.interpss.core.aclf](../api_doc/com/interpss/core/aclf/package-summary.html) |
-| **Dynamic Stability** | Transient stability analysis | [com.interpss.dstab](../api_doc/com/interpss/dstab/package-summary.html) |
 | **DC Analysis** | DC load flow and sensitivity | [com.interpss.dc](../api_doc/api_doc/com/interpss/dc/package-summary.html) |
 | **Optimal Power Flow** | OPF algorithms | [com.interpss.opf](../api_doc/api_doc/com/interpss/opf/package-summary.html) |
+| **Dynamic Stability** | Transient stability analysis | [com.interpss.dstab](../api_doc/com/interpss/dstab/package-summary.html) |
 
 ### Key Factory Classes
 
@@ -33,7 +33,6 @@ The InterPSS API documentation provides comprehensive coverage of all classes, i
 ### Network Models
 
 - **[AclfNetwork](../api_doc/com/interpss/core/aclf/AclfNetwork.html)** - AC load flow network model
-- **[DStabilityNetwork](../api_doc/com/interpss/dstab/DStabilityNetwork.html)** - Dynamic stability network model
 - **[AclfBus](../api_doc/com/interpss/core/aclf/AclfBus.html)** - AC load flow bus model
 - **[AclfBranch](../api_doc/com/interpss/core/aclf/AclfBranch.html)** - AC load flow branch model
 
