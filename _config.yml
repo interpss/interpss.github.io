@@ -30,10 +30,19 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  # Don't exclude api_doc - we want it included as static content
  
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
+
+# Include API documentation and exclude from Jekyll processing
+include:
+  - api_doc
+
+# Keep API docs as static files (don't process with Jekyll)
+keep_files:
+  - api_doc
 
 # Enable or disable the site search
 # Supports true (default) or false
