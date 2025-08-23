@@ -18,12 +18,12 @@ InterPSS is a comprehensive power system analysis engine designed for both onlin
 ---
 
 ### Key Features
-- **API-first and Rich APIs** - More than 10,000 APIs covering all models, solvers and result processing are publicly available for interation and customization
-- **Light-weight yet Powerful** - The core module is less than 4 Mb and the total size including dependent packages is less than 70MB (as of August 2025); it can solve large-scale power systems upto ~ 100,000 buses
+- **API-first and Rich APIs** - More than 10,000 APIs covering all models, solvers and result processing are publicly available for integration and customization.
+- **Light-weight yet Powerful** - The core module is less than 4 Mb and the total size including dependent packages is less than 70MB (as of August 2025); it can solve large-scale power systems upto ~ 100,000 buses.
 - **Cloud Native and Cross-platform (Win, Linux, Mac)** - Native Java design, highly portable across platforms, and easy for cloud deployment
 - **AC/DC Load Flow Analysis** - Comprehensive power flow calculations for transmission (positive-sequence) and distribution (three-phase) systems 
-- **Contingency Analysis** - N-1 and N-K outage studies
-- **Sensitivity Analysis** - Various sensitivity calculations such as LODF and GSF for system analysis and trading applications
+- **Contingency Analysis** - Super-fast N-1 and N-K contingency analysis and result processing, e.g., 25,000 N-1 contingencies within 10 seconds with using an average desktop with 8-core CPUs
+- **Sensitivity Analysis** - Various sensitivity calculations such as LODF and GSF for power trading applications and integration with optimization solutions
 - **Short Circuit Analysis** - Three-sequence network modeling and comprehensive system fault analysis
 - **Dynamic Stability Analysis** - Transient stability simulations for transmission and distribution systems invidividually or combined
 
