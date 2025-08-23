@@ -18,7 +18,7 @@ InterPSS is a comprehensive power system analysis engine designed for both onlin
 ---
 
 ### Key Features
-- **API-first and Rich API** - More than 10,000 APIs in the core modules are publicly available for interation and customization
+- **API-first and Rich API** - More than 10,000 APIs covering all models, solvers and result processing are publicly available for interation and customization
 - **Light-weight yet powerful** - The core module is less than 4 Mb and the total size including dependent packages is less than 70MB (as of August 2025); it can solve large-scale power systems of ~ 100,000 buses
 - **Cloud native and cross-platform (Win, Linux, Mac)** - Native Java design, highly portable across platforms, and easy for cloud deployment
 - **AC/DC Load Flow Analysis** - Comprehensive power flow calculations for transmission (positive-sequence) and distribution (three-phase) systems 
